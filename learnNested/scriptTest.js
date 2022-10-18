@@ -21,7 +21,7 @@ db.once('open', function() {
         type: Number,
       },
   }
-  
+
   );
   const userSchema = new mongoose.Schema({
     fullName: {
