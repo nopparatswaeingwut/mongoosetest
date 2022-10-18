@@ -12,7 +12,7 @@
     "nodemon": "^2.0.20"
   },
   "scripts": {
-    "dev": "index.html",
+    "devStart": "index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
